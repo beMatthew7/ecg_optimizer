@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ecgqualityanalyzer.ECGAnalyzerFrameTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-11T12:51:01.661Z" hostname="192.168.0.6" time="1.123">
+  <properties/>
+  <testcase name="selectionRefreshesChartClearsResultsAndAnalyzesAllScenarios()" classname="com.ecgqualityanalyzer.ECGAnalyzerFrameTest" time="0.892"/>
+  <testcase name="controlsAndLabelsFitWhenResized()" classname="com.ecgqualityanalyzer.ECGAnalyzerFrameTest" time="0.036"/>
+  <testcase name="serviceReceivesSamplesOffEventThreadAndOldResultsCannotOverwriteNewSelection()" classname="com.ecgqualityanalyzer.ECGAnalyzerFrameTest" time="0.193"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
